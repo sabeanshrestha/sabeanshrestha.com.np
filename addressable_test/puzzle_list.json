@@ -1,0 +1,34 @@
+{
+  "puzzles": [
+    {
+      "index": 1,
+      "column_count": 3,
+      "coin_value": 10,
+      "image_address": "bike01"
+    },
+    {
+      "index": 2,
+      "column_count": 3,
+      "coin_value": 10,
+      "image_address": "car01"
+    },
+    {
+      "index": 3,
+      "column_count": 3,
+      "coin_value": 10,
+      "image_address": "car02"
+    },
+    {
+      "index": 4,
+      "column_count": 3,
+      "coin_value": 10,
+      "image_address": "bike02"
+    },
+    {
+      "index": 5,
+      "column_count": 3,
+      "coin_value": 10,
+      "image_address": "car03"
+    }
+  ]
+}
